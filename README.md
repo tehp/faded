@@ -1,2 +1,0 @@
-# faded
-Faded barbershop website

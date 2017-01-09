@@ -1,0 +1,41 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+body {
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 1.846;
+    color: #666666;
+    background-color: #ffffff
+}
+
+a:hover {
+    color: #555555;
+    text-decoration: none;
+}
+
+.enterButton {
+    margin: .4em;
+    padding: 1em;
+    cursor: pointer;
+    background: #ffffff;
+    text-decoration: none;
+    color: #555555;
+}
+
+.splash {
+    position: absolute;
+    width: 100%;
+    top: 40%;
+    left: 0%;
+    right: 0%;
+    bottom: 40%;
+    height: 20%;
+    opacity: .9;
+}
+
+video {
+    opacity: .9;
+}
